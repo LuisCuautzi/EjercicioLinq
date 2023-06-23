@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer7_OperConjuntos\bin\Debug\Ejer7_OperConjuntos.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer7_OperConjuntos\bin\Debug\Ejer7_OperConjuntos.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer7_OperConjuntos\bin\Debug\Ejer7_OperConjuntos.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer7_OperConjuntos\obj\Debug\Ejer7_OperConjuntos.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer7_OperConjuntos\obj\Debug\Ejer7_OperConjuntos.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer7_OperConjuntos\obj\Debug\Ejer7_OperConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer7_OperConjuntos\obj\Debug\Ejer7_OperConjuntos.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer7_OperConjuntos\obj\Debug\Ejer7_OperConjuntos.pdb

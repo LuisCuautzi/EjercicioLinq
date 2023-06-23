@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer5_ArrayList\bin\Debug\Ejer5_ArrayList.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer5_ArrayList\bin\Debug\Ejer5_ArrayList.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer5_ArrayList\bin\Debug\Ejer5_ArrayList.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer5_ArrayList\obj\Debug\Ejer5_ArrayList.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer5_ArrayList\obj\Debug\Ejer5_ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer5_ArrayList\obj\Debug\Ejer5_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer5_ArrayList\obj\Debug\Ejer5_ArrayList.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer5_ArrayList\obj\Debug\Ejer5_ArrayList.pdb

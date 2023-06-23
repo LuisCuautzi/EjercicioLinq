@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer_OperBasicas\bin\Debug\Ejer_OperBasicas.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer_OperBasicas\bin\Debug\Ejer_OperBasicas.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer_OperBasicas\bin\Debug\Ejer_OperBasicas.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer_OperBasicas\obj\Debug\Ejer_OperBasicas.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer_OperBasicas\obj\Debug\Ejer_OperBasicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer_OperBasicas\obj\Debug\Ejer_OperBasicas.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer_OperBasicas\obj\Debug\Ejer_OperBasicas.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer_OperBasicas\obj\Debug\Ejer_OperBasicas.pdb

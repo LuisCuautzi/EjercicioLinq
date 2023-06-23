@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer4_Collecciones\bin\Debug\Ejer4_Collecciones.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer4_Collecciones\bin\Debug\Ejer4_Collecciones.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer4_Collecciones\bin\Debug\Ejer4_Collecciones.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer4_Collecciones\obj\Debug\Ejer4_Collecciones.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer4_Collecciones\obj\Debug\Ejer4_Collecciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer4_Collecciones\obj\Debug\Ejer4_Collecciones.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer4_Collecciones\obj\Debug\Ejer4_Collecciones.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer4_Collecciones\obj\Debug\Ejer4_Collecciones.pdb

@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer1Ordenar\bin\Debug\Ejer1Ordenar.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer1Ordenar\bin\Debug\Ejer1Ordenar.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer1Ordenar\bin\Debug\Ejer1Ordenar.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer1Ordenar\obj\Debug\Ejer1Ordenar.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer1Ordenar\obj\Debug\Ejer1Ordenar.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer1Ordenar\obj\Debug\Ejer1Ordenar.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer1Ordenar\obj\Debug\Ejer1Ordenar.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer1Ordenar\obj\Debug\Ejer1Ordenar.pdb

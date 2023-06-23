@@ -1,0 +1,3 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer8_ExprecionesLamda\obj\Debug\Ejer8_ExprecionesLamda.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer8_ExprecionesLamda\obj\Debug\Ejer8_ExprecionesLamda.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer8_ExprecionesLamda\obj\Debug\Ejer8_ExprecionesLamda.csproj.CoreCompileInputs.cache

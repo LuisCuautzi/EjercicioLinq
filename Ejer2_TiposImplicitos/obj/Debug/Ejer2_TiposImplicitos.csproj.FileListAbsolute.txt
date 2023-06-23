@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer2_TiposImplicitos\bin\Debug\Ejer2_TiposImplicitos.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer2_TiposImplicitos\bin\Debug\Ejer2_TiposImplicitos.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer2_TiposImplicitos\bin\Debug\Ejer2_TiposImplicitos.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer2_TiposImplicitos\obj\Debug\Ejer2_TiposImplicitos.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer2_TiposImplicitos\obj\Debug\Ejer2_TiposImplicitos.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer2_TiposImplicitos\obj\Debug\Ejer2_TiposImplicitos.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer2_TiposImplicitos\obj\Debug\Ejer2_TiposImplicitos.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolEjerLinq\Ejer2_TiposImplicitos\obj\Debug\Ejer2_TiposImplicitos.pdb
